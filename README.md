@@ -1,6 +1,6 @@
 # Project Overview 
 
-Our company was given CSV files :city_data.csv, ride_data.csv. Our team was able to provide our client: V. Isualize with several charts which includes box and whiskers plot, pie charts and line charts. Here we compared different areas ; Urban, Suburban and rural areas based on drivers count and fare and Ride count datas . 
+Our company was given CSV files :city_data.csv, ride_data.csv. Our team was able to provide our client: Visualize with several charts which includes box and whiskers plot, pie charts and line charts. Here we compared different areas ; Urban, Suburban and rural areas based on drivers count and fare and Ride count datas . 
 
 # Resources 
 
